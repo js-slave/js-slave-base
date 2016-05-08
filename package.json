@@ -27,5 +27,8 @@
   "devDependencies": {
     "eslint": "^2.9.0",
     "eslint-config-js-slave": "0.0.1"
+  },
+  "engines": {
+    "node": ">=6.0.0"
   }
 }
