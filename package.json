@@ -1,0 +1,31 @@
+{
+  "name": "js-slave-base",
+  "version": "0.0.1",
+  "description": "This is the base Class to create a Slave (your slave has to expend JSSlave)",
+  "main": "main.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "js-slave",
+    "js-slave-manager",
+    "js-slave-base"
+  ],
+  "files": [
+    "src",
+    "main.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js-slave/js-slave-base.git"
+  },
+  "author": "lludol",
+  "license": {
+    "type": "GNU GPLv3",
+    "url": "http://www.gnu.org/copyleft/gpl.html"
+  },
+  "devDependencies": {
+    "eslint": "^2.9.0",
+    "eslint-config-js-slave": "0.0.1"
+  }
+}
